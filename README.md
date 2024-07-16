@@ -291,5 +291,5 @@ id,country_code,country_name
 * Navigate to the project directory : cd travel-tracker
 * Install dependencies : npm install
 * Set up the PostgreSQL database : Create a database named travel_tracker and run the provided SQL script to create tables and insert initial data.
-* Start the server : node start
+* Start the server : node index.js
 * Access the application in your browser at http://localhost:3000
